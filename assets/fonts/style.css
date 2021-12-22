@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Montserrat-Thin';
+   font-display: swap;
+   src: url('Montserrat-Thin/font.ttf');
+}
+@font-face {
+   font-family: 'iCiel Medium';
+   font-display: swap;
+   src: url('iCiel Medium/font.ttf');
+}
+@font-face {
+   font-family: 'HomepageBaukasten-Book';
+   font-display: swap;
+   src: url('HomepageBaukasten-Book/font.ttf');
+}
